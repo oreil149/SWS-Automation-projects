@@ -1,1 +1,0 @@
-# SWS-Automation-projects
